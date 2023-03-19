@@ -1,4 +1,30 @@
 {
-    "image": "ballerina/ballerina-devcontainer:2201.3.1",
-    "extensions": ["WSO2.ballerina"],
+    "intent": "reset",
+    "Sub intent": "ad",
+    "point": "10",
+},
+{
+    "intent": "change",
+    "Sub intent": "ad",
+    "point": "5",
+},
+    {
+    "intent": "unlock",
+    "Sub intent": "ad",
+    "point": "6",
+},
+    {
+    "intent": "Reset",
+    "Sub intent": "sap",
+    "point": "7",
+},
+    {
+    "intent": "Change",
+    "Sub intent": "sap",
+    "point": "8",
+},
+    {
+    "intent": "reset",
+    "Sub intent": "sap",
+    "point": "9",
 }
